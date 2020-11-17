@@ -9,8 +9,8 @@ Libraries used
 APIs used
 * https://covidtracking.com/
 
-## Elements
-### Covid State List
+# Elements
+## Covid State List
 
 This element pulls all 50 US states and details about their tracking information. It creates a dropdown to choose a state.
 
@@ -27,7 +27,7 @@ This is emitted when a state is selected from the dropdown. Emitted on load of c
 <covid-state-list></covid-state-list>
 ```
 
-### Covid State Details
+## Covid State Details
 
 This element pulls data of the provided state.
 
